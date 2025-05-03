@@ -1,0 +1,6 @@
+turn_on_light:
+  - "turn on [kitchen](location) light"
+turn_off_light:
+  - "turn off [bedroom](location) light"
+set_reminder:
+  - "remind me to [buy milk](task) at [5 PM](time)"

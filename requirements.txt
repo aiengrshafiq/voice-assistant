@@ -1,0 +1,8 @@
+pvporcupine
+pyaudio
+vosk
+rhasspy-nlu
+python-dotenv
+requests
+tinytuya
+piper-tts
