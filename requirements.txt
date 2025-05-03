@@ -6,3 +6,4 @@ python-dotenv
 requests
 tinytuya
 piper-tts
+openai
